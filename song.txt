@@ -5,3 +5,6 @@ Oh, I believe in yesterday.
 Suddenly, I'm not half the man I used to be.
 There's a shadow hanging over me.
 Oh, yesterday came suddenly.
+
+Added commit 1 in the feature branch.
+Added commit 2 in the feature branch.
